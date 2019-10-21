@@ -15,12 +15,12 @@ INSERT INTO products(product_name, department_name, price, stock_quantity)
 VALUES 
 ('Destiny 2', 'Video Games', 39.99, 20),
 ('Call of Duty: Modern Warfare', 'Video Games', 59.99, 0),
-('Men''s Black Polo - S','Men''s Fashion', 11.99, 10),
-('Men''s Black Polo - M','Men''s Fashion', 11.99, 20),
-('Men''s Black Polo - L','Men''s Fashion', 11.99, 15),
-('Men''s Black Polo - XL','Men''s Fashion', 11.99, 10),
-('Women''s Black Dress - XS','Women''s Fashion',13.99, 15),
-('Women''s Black Dress - S','Women''s Fashion',13.99, 20),
-('Women''s Black Dress - M','Women''s Fashion',13.99, 25),
-('Women''s Black Dress - L','Women''s Fashion',13.99, 15);
+('Dog Food','Pet Supplies', 11.99, 20),
+('Cat Food','Pet Supplies', 11.99, 10),
+('Comb','Beauty & Health', 5.99, 15),
+('Brush','Beauty & Health', 6.99, 10),
+('Banana','AmazonFresh', 0.99, 15),
+('Apple','AmazonFresh', 0.50, 20),
+('Black Polo','Clothing', 11.99, 25),
+('Black Dress','Clothing',13.99, 15);
 SELECT * FROM products;
