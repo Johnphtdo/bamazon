@@ -50,4 +50,4 @@ node bamazonCustomer.js
 3. If there is not enough of the item in stock, it will return insufficient. If there is enough, you will be given a total for the items and the database will update with a new stock quantity.
 
 ## Contact
-John Do -[LinkedIn](https://www.linkedin.com/in/john-do-a02a4661/)
+John Do -[LinkedIn](https://www.linkedin.com/in/johnphtdo/)
